@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Old World Journey</title>
-    <link>https://theoldworldjourney.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on The Old World Journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2024 12:34:56 -0400</lastBuildDate>
-    <atom:link href="https://theoldworldjourney.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>This is the post title</title>
-      <link>https://theoldworldjourney.github.io/posts/mypost/</link>
-      <pubDate>Sat, 01 Jun 2024 12:34:56 -0400</pubDate>
-      <guid>https://theoldworldjourney.github.io/posts/mypost/</guid>
-      <description>This is some content</description>
+      <title>Welcome to The Old World (and to my blog)</title>
+      <link>http://localhost:1313/posts/mypost/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description>Admittedly, not the best picture, but you can still appreciate the artwork&#xA;Hello,&#xA;If you are reading this, then you have managed to stumble upon my quiet and possibly transient blog. Here I will be covering my journey into &amp;ldquo;The Old World&amp;rdquo; by Games Workshop. Basically, I only ever played a handful of Warhammer Fantasy games when I was in elementary school. I used to go to the GW store and participate in the Mega Battle Sundays; they had it structured so that people could come in and play store-hosted games with the store&amp;rsquo;s own models1.</description>
     </item>
   </channel>
 </rss>
